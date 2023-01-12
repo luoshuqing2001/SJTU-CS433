@@ -2,7 +2,7 @@
 SJTU CS433 Parallel and Distributed Programming Final Project Lab1
 ## 文件目录结构
 ```
-.\Lab1
+.\SJTU-CS433
 │   document.pdf
 │   Group_1.pptx
 |   1_Tensor_Core的使用与原理实现_.pdf
