@@ -24,6 +24,7 @@ SJTU CS433 Parallel and Distributed Programming Final Project Lab1
 │   ├───input_data（一万个 3 × 224 × 224 图片张量）
 │   ├───model_data（onnx 模型参数）
 │   └───result_b（baseline 计算结果）
+|
 ├───ResNet_1
 │   │   main.cpp
 │   │   Makefile
